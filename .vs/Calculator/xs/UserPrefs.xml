@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{5F01C20B-7694-46E2-AA2F-95F611A89EA5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Calculator.Droid PreferredExecutionTarget="Android.pixel_2_pie_9_0_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/SharedResources.cs">
+    <Files>
+      <File FileName="Calculator/App.cs" Line="18" Column="36" />
+      <File FileName="Calculator/Models/SimpleCalculator.cs" Line="18" Column="40" />
+      <File FileName="Calculator/Models/MainModels.cs" Line="6" Column="11" />
+      <File FileName="Calculator/ViewController/ViewControllerBase.cs" Line="1" Column="1" />
+      <File FileName="Calculator/ViewsModels/ViewModelBase.cs" Line="13" Column="14" />
+      <File FileName="Calculator/ViewsModels/OperacionesViewModel.cs" Line="79" Column="10" />
+      <File FileName="Calculator/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="Calculator/MainPage.xaml.cs" Line="18" Column="10" />
+      <File FileName="Calculator/OldMainPage.cs" Line="1" Column="1" />
+      <File FileName="Calculator/SharedResources.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Calculator" expanded="True">
+            <Node name="Calculator" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewsModels" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="SharedResources.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Calculator.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
